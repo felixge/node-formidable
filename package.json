@@ -53,7 +53,7 @@
     "jest": "25.4.0",
     "koa": "2.11.0",
     "lint-staged": "10.2.7",
-    "make-dir-cli": "2.0.0",
+    "make-dir-cli": "3.0.0",
     "nyc": "15.0.1",
     "prettier": "2.0.5",
     "prettier-plugin-pkgjson": "0.2.8",
